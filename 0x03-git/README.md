@@ -1,7 +1,6 @@
 ## 0x03 - git 
 
 ### General
-
 <ul>
 <li>What is source code management</li>
 <li>What is Git</li>
